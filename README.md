@@ -1,20 +1,11 @@
 # Structure and Interpretation of Computer Programs
 
-This is a self-paced course in programming.
 
 It is based on Berkley's course delivered in Spring 2011 of the same name.
 
 The target audience are serious programmers looking to advance their knowledge beyond some specific  language or technology.
 
 The course itself is based on the highly acclaimed [SICP ](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871) book,  considered by many to be one of the most important Computer Science books ever written.
-
-# Usage
-
-Fork the repo.
-
-Study each item in sequence, checking off each item as you finish it.  
-
-The course makes use of the STK Scheme interpreter which can be downloaded and installed from [here](https://inst.eecs.berkeley.edu/~scheme/source/).
 
 # Course overview
 
@@ -33,15 +24,15 @@ We deal with three big programming styles/approaches/paradigms:
 
 The big idea of the course is abstraction: inventing languages that let us talk more nearly in a problem’s own terms and less in terms of the computer’s mechanisms or capabilities. There is a hierarchy of abstraction:
 
-Application programs<br/>
-High-level language (Scheme)<br/>
-Low-level language (C)<br/>
-Machine language<br/>
+Application Programs<br/>
+High-level Language (Scheme)<br/>
+Low-level Language (C)<br/>
+Machine Language<br/>
 Architecture (registers, memory, arithmetic unit, etc)<br/>
-circuit elements (gates)<br/>
-transistors<br/>
-solid-state physics<br/>
-quantum mechanics<br/>
+Circuit Elements (gates)<br/>
+Transistors<br/>
+Solid-State Physics<br/>
+Quantum Mechanics<br/>
 
 We look at lower levels; all are important but we want to start at the highest level to get you thinking right.
 
